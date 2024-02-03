@@ -1,1 +1,1 @@
-# Pharmacy_Mnagement_System
+# Pharmacy_Management_System
